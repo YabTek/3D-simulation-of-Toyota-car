@@ -1,2 +1,2 @@
 # 3D-simulation-of-Toyota-car
-  In this project we will develop a 3D car simulation using openGL library. Our program will be written in python language. It will have separate functions for each task and comments so as to make the program understandable.
+  In this project we will develop a 3D car simulation using openGL library and blender. We will model the car using blender. We will use python language to import the model. The program will have comments to make it understandable.
